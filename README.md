@@ -13,7 +13,7 @@ I swear this is intuitive to me, but if it doesn't feel free to change it in the
 ## Setup
 Install `spotifyd` from the AUR and set it up. You will also need `playerctl` and python.
 
-Place `spotifyd.py` `inside ~/.config/polybar/`
+Place `spotifyd.py` inside of `~/.config/polybar/`
 
 Add the following module to your polybar config:
 ```toml
